@@ -1,0 +1,45 @@
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+.env.local
+*.egg-info/
+
+# ── Node / Front-end ──────────────────────────────────────────────────────────
+node_modules/
+dist/
+dist-ssr/
+*.local
+.vite/
+*.tsbuildinfo
+coverage/
+
+# ── Logs ──────────────────────────────────────────────────────────────────────
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ── OS files ──────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── IDE / Editor ──────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.suo
+*.sw?
+
+data/
+logs/
+mongodb/
+ntfydocker/
+
+# ── Kiro / Project docs ───────────────────────────────────────────────────────
+.kiro/
+project.md

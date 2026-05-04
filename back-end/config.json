@@ -1,0 +1,9 @@
+{
+    "LLMProviderType": "local",
+    "ModelName": "mistral:7b",
+    "LocalHealthKitDataPath": "../synthetic-apple-health-data",
+    "FHIRBaseURL": "http://localhost:8090/fhir",
+    "NTFYBaseURL": "http://localhost:5050",
+    "AggregationWindowDays": 120,
+    "GeminiAPIKey": ""
+}

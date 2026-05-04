@@ -1,0 +1,98 @@
+# ----------------------
+# Python
+# ----------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# ----------------------
+# Virtual environments
+# ----------------------
+venv/
+.env/
+.venv/
+ENV/
+env/
+
+# ----------------------
+# Environment variables
+# ----------------------
+.env
+.env.*
+*.env
+
+# ----------------------
+# Logs
+# ----------------------
+*.log
+logs/
+uvicorn.log
+
+# ----------------------
+# Build / packaging
+# ----------------------
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ----------------------
+# Testing
+# ----------------------
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ----------------------
+# Type checking / linting
+# ----------------------
+.mypy_cache/
+.dmypy.json
+.pyre/
+.ruff_cache/
+
+# ----------------------
+# IDEs / editors
+# ----------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ----------------------
+# OS files
+# ----------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------
+# Database files (local dev)
+# ----------------------
+*.sqlite3
+*.db
+
+# ----------------------
+# FastAPI specific (optional)
+# ----------------------
+*.pid
+*.reload
+
+# ----------------------
+# Jupyter (if you use it)
+# ----------------------
+.ipynb_checkpoints/
+
+# ----------------------
+# Docker (optional)
+# ----------------------
+*.tar
+docker-compose.override.yml
+
+# ----------------------
+# Node (if frontend lives nearby)
+# ----------------------
+node_modules/
+dist-ssr/

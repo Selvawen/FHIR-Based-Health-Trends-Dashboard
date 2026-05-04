@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HealthData locale="en_US">
+<ExportDate value="2026-03-29 01:31:33 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="60" startDate="2026-01-01 08:00:00 -0800" endDate="2026-01-01 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="56" startDate="2026-01-01 08:00:00 -0800" endDate="2026-01-01 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="13.96" startDate="2026-01-01 03:00:00 -0800" endDate="2026-01-01 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="98.17" startDate="2026-01-01 03:00:00 -0800" endDate="2026-01-01 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="9355" startDate="2026-01-01 00:00:00 -0800" endDate="2026-01-01 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="562" startDate="2026-01-01 00:00:00 -0800" endDate="2026-01-01 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="36" startDate="2026-01-01 00:00:00 -0800" endDate="2026-01-01 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="99" startDate="2026-01-01 18:00:00 -0800" endDate="2026-01-01 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="57" startDate="2026-01-02 08:00:00 -0800" endDate="2026-01-02 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="52" startDate="2026-01-02 08:00:00 -0800" endDate="2026-01-02 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="14.35" startDate="2026-01-02 03:00:00 -0800" endDate="2026-01-02 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="95.16" startDate="2026-01-02 03:00:00 -0800" endDate="2026-01-02 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="10960" startDate="2026-01-02 00:00:00 -0800" endDate="2026-01-02 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="607" startDate="2026-01-02 00:00:00 -0800" endDate="2026-01-02 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="47" startDate="2026-01-02 00:00:00 -0800" endDate="2026-01-02 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="91" startDate="2026-01-02 18:00:00 -0800" endDate="2026-01-02 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="61" startDate="2026-01-03 08:00:00 -0800" endDate="2026-01-03 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="59" startDate="2026-01-03 08:00:00 -0800" endDate="2026-01-03 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="12.33" startDate="2026-01-03 03:00:00 -0800" endDate="2026-01-03 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="95.19" startDate="2026-01-03 03:00:00 -0800" endDate="2026-01-03 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="11366" startDate="2026-01-03 00:00:00 -0800" endDate="2026-01-03 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="643" startDate="2026-01-03 00:00:00 -0800" endDate="2026-01-03 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="59" startDate="2026-01-03 00:00:00 -0800" endDate="2026-01-03 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="91" startDate="2026-01-03 18:00:00 -0800" endDate="2026-01-03 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="61" startDate="2026-01-04 08:00:00 -0800" endDate="2026-01-04 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="54" startDate="2026-01-04 08:00:00 -0800" endDate="2026-01-04 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="13.88" startDate="2026-01-04 03:00:00 -0800" endDate="2026-01-04 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="97.79" startDate="2026-01-04 03:00:00 -0800" endDate="2026-01-04 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="10442" startDate="2026-01-04 00:00:00 -0800" endDate="2026-01-04 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="442" startDate="2026-01-04 00:00:00 -0800" endDate="2026-01-04 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="58" startDate="2026-01-04 00:00:00 -0800" endDate="2026-01-04 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="96" startDate="2026-01-04 18:00:00 -0800" endDate="2026-01-04 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="55" startDate="2026-01-05 08:00:00 -0800" endDate="2026-01-05 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="64" startDate="2026-01-05 08:00:00 -0800" endDate="2026-01-05 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="13.88" startDate="2026-01-05 03:00:00 -0800" endDate="2026-01-05 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="95.7" startDate="2026-01-05 03:00:00 -0800" endDate="2026-01-05 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="10718" startDate="2026-01-05 00:00:00 -0800" endDate="2026-01-05 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="418" startDate="2026-01-05 00:00:00 -0800" endDate="2026-01-05 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="35" startDate="2026-01-05 00:00:00 -0800" endDate="2026-01-05 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="103" startDate="2026-01-05 18:00:00 -0800" endDate="2026-01-05 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="56" startDate="2026-01-06 08:00:00 -0800" endDate="2026-01-06 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="50" startDate="2026-01-06 08:00:00 -0800" endDate="2026-01-06 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="13.11" startDate="2026-01-06 03:00:00 -0800" endDate="2026-01-06 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="98.29" startDate="2026-01-06 03:00:00 -0800" endDate="2026-01-06 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="11221" startDate="2026-01-06 00:00:00 -0800" endDate="2026-01-06 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="687" startDate="2026-01-06 00:00:00 -0800" endDate="2026-01-06 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="39" startDate="2026-01-06 00:00:00 -0800" endDate="2026-01-06 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="98" startDate="2026-01-06 18:00:00 -0800" endDate="2026-01-06 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="59" startDate="2026-01-07 08:00:00 -0800" endDate="2026-01-07 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="55" startDate="2026-01-07 08:00:00 -0800" endDate="2026-01-07 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="13.27" startDate="2026-01-07 03:00:00 -0800" endDate="2026-01-07 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="96.27" startDate="2026-01-07 03:00:00 -0800" endDate="2026-01-07 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="9764" startDate="2026-01-07 00:00:00 -0800" endDate="2026-01-07 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="696" startDate="2026-01-07 00:00:00 -0800" endDate="2026-01-07 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="48" startDate="2026-01-07 00:00:00 -0800" endDate="2026-01-07 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="91" startDate="2026-01-07 18:00:00 -0800" endDate="2026-01-07 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="62" startDate="2026-01-08 08:00:00 -0800" endDate="2026-01-08 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="51" startDate="2026-01-08 08:00:00 -0800" endDate="2026-01-08 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="14.47" startDate="2026-01-08 03:00:00 -0800" endDate="2026-01-08 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="98.1" startDate="2026-01-08 03:00:00 -0800" endDate="2026-01-08 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="9724" startDate="2026-01-08 00:00:00 -0800" endDate="2026-01-08 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="607" startDate="2026-01-08 00:00:00 -0800" endDate="2026-01-08 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="48" startDate="2026-01-08 00:00:00 -0800" endDate="2026-01-08 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="104" startDate="2026-01-08 18:00:00 -0800" endDate="2026-01-08 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="56" startDate="2026-01-09 08:00:00 -0800" endDate="2026-01-09 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="50" startDate="2026-01-09 08:00:00 -0800" endDate="2026-01-09 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="14.04" startDate="2026-01-09 03:00:00 -0800" endDate="2026-01-09 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="97.38" startDate="2026-01-09 03:00:00 -0800" endDate="2026-01-09 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="11840" startDate="2026-01-09 00:00:00 -0800" endDate="2026-01-09 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="479" startDate="2026-01-09 00:00:00 -0800" endDate="2026-01-09 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="51" startDate="2026-01-09 00:00:00 -0800" endDate="2026-01-09 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="105" startDate="2026-01-09 18:00:00 -0800" endDate="2026-01-09 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="61" startDate="2026-01-10 08:00:00 -0800" endDate="2026-01-10 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="53" startDate="2026-01-10 08:00:00 -0800" endDate="2026-01-10 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="12.25" startDate="2026-01-10 03:00:00 -0800" endDate="2026-01-10 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="96.89" startDate="2026-01-10 03:00:00 -0800" endDate="2026-01-10 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="11669" startDate="2026-01-10 00:00:00 -0800" endDate="2026-01-10 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="407" startDate="2026-01-10 00:00:00 -0800" endDate="2026-01-10 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="34" startDate="2026-01-10 00:00:00 -0800" endDate="2026-01-10 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="103" startDate="2026-01-10 18:00:00 -0800" endDate="2026-01-10 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="55" startDate="2026-01-11 08:00:00 -0800" endDate="2026-01-11 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="50" startDate="2026-01-11 08:00:00 -0800" endDate="2026-01-11 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="14.05" startDate="2026-01-11 03:00:00 -0800" endDate="2026-01-11 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="95.49" startDate="2026-01-11 03:00:00 -0800" endDate="2026-01-11 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="11958" startDate="2026-01-11 00:00:00 -0800" endDate="2026-01-11 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="445" startDate="2026-01-11 00:00:00 -0800" endDate="2026-01-11 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="57" startDate="2026-01-11 00:00:00 -0800" endDate="2026-01-11 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="96" startDate="2026-01-11 18:00:00 -0800" endDate="2026-01-11 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="56" startDate="2026-01-12 08:00:00 -0800" endDate="2026-01-12 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="54" startDate="2026-01-12 08:00:00 -0800" endDate="2026-01-12 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="13.42" startDate="2026-01-12 03:00:00 -0800" endDate="2026-01-12 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="96.1" startDate="2026-01-12 03:00:00 -0800" endDate="2026-01-12 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="10330" startDate="2026-01-12 00:00:00 -0800" endDate="2026-01-12 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="630" startDate="2026-01-12 00:00:00 -0800" endDate="2026-01-12 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="37" startDate="2026-01-12 00:00:00 -0800" endDate="2026-01-12 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="95" startDate="2026-01-12 18:00:00 -0800" endDate="2026-01-12 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="55" startDate="2026-01-13 08:00:00 -0800" endDate="2026-01-13 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="61" startDate="2026-01-13 08:00:00 -0800" endDate="2026-01-13 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="14.32" startDate="2026-01-13 03:00:00 -0800" endDate="2026-01-13 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="97.85" startDate="2026-01-13 03:00:00 -0800" endDate="2026-01-13 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="11504" startDate="2026-01-13 00:00:00 -0800" endDate="2026-01-13 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="443" startDate="2026-01-13 00:00:00 -0800" endDate="2026-01-13 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="34" startDate="2026-01-13 00:00:00 -0800" endDate="2026-01-13 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="99" startDate="2026-01-13 18:00:00 -0800" endDate="2026-01-13 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="62" startDate="2026-01-14 08:00:00 -0800" endDate="2026-01-14 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="64" startDate="2026-01-14 08:00:00 -0800" endDate="2026-01-14 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="14.01" startDate="2026-01-14 03:00:00 -0800" endDate="2026-01-14 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="98.56" startDate="2026-01-14 03:00:00 -0800" endDate="2026-01-14 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="11741" startDate="2026-01-14 00:00:00 -0800" endDate="2026-01-14 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="426" startDate="2026-01-14 00:00:00 -0800" endDate="2026-01-14 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="60" startDate="2026-01-14 00:00:00 -0800" endDate="2026-01-14 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="91" startDate="2026-01-14 18:00:00 -0800" endDate="2026-01-14 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="55" startDate="2026-01-15 08:00:00 -0800" endDate="2026-01-15 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="51" startDate="2026-01-15 08:00:00 -0800" endDate="2026-01-15 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="12.04" startDate="2026-01-15 03:00:00 -0800" endDate="2026-01-15 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="97.6" startDate="2026-01-15 03:00:00 -0800" endDate="2026-01-15 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="11347" startDate="2026-01-15 00:00:00 -0800" endDate="2026-01-15 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="440" startDate="2026-01-15 00:00:00 -0800" endDate="2026-01-15 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="49" startDate="2026-01-15 00:00:00 -0800" endDate="2026-01-15 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="102" startDate="2026-01-15 18:00:00 -0800" endDate="2026-01-15 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="59" startDate="2026-01-16 08:00:00 -0800" endDate="2026-01-16 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="59" startDate="2026-01-16 08:00:00 -0800" endDate="2026-01-16 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="14.19" startDate="2026-01-16 03:00:00 -0800" endDate="2026-01-16 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="95.66" startDate="2026-01-16 03:00:00 -0800" endDate="2026-01-16 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="11526" startDate="2026-01-16 00:00:00 -0800" endDate="2026-01-16 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="649" startDate="2026-01-16 00:00:00 -0800" endDate="2026-01-16 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="56" startDate="2026-01-16 00:00:00 -0800" endDate="2026-01-16 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="91" startDate="2026-01-16 18:00:00 -0800" endDate="2026-01-16 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="60" startDate="2026-01-17 08:00:00 -0800" endDate="2026-01-17 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="61" startDate="2026-01-17 08:00:00 -0800" endDate="2026-01-17 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="14.85" startDate="2026-01-17 03:00:00 -0800" endDate="2026-01-17 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="97.91" startDate="2026-01-17 03:00:00 -0800" endDate="2026-01-17 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="9924" startDate="2026-01-17 00:00:00 -0800" endDate="2026-01-17 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="485" startDate="2026-01-17 00:00:00 -0800" endDate="2026-01-17 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="51" startDate="2026-01-17 00:00:00 -0800" endDate="2026-01-17 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="94" startDate="2026-01-17 18:00:00 -0800" endDate="2026-01-17 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="56" startDate="2026-01-18 08:00:00 -0800" endDate="2026-01-18 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="61" startDate="2026-01-18 08:00:00 -0800" endDate="2026-01-18 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="14.86" startDate="2026-01-18 03:00:00 -0800" endDate="2026-01-18 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="95.66" startDate="2026-01-18 03:00:00 -0800" endDate="2026-01-18 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="11284" startDate="2026-01-18 00:00:00 -0800" endDate="2026-01-18 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="644" startDate="2026-01-18 00:00:00 -0800" endDate="2026-01-18 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="43" startDate="2026-01-18 00:00:00 -0800" endDate="2026-01-18 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="102" startDate="2026-01-18 18:00:00 -0800" endDate="2026-01-18 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="62" startDate="2026-01-19 08:00:00 -0800" endDate="2026-01-19 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="58" startDate="2026-01-19 08:00:00 -0800" endDate="2026-01-19 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="14.35" startDate="2026-01-19 03:00:00 -0800" endDate="2026-01-19 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="97.27" startDate="2026-01-19 03:00:00 -0800" endDate="2026-01-19 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="9197" startDate="2026-01-19 00:00:00 -0800" endDate="2026-01-19 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="431" startDate="2026-01-19 00:00:00 -0800" endDate="2026-01-19 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="38" startDate="2026-01-19 00:00:00 -0800" endDate="2026-01-19 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="100" startDate="2026-01-19 18:00:00 -0800" endDate="2026-01-19 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="55" startDate="2026-01-20 08:00:00 -0800" endDate="2026-01-20 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="54" startDate="2026-01-20 08:00:00 -0800" endDate="2026-01-20 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="13.8" startDate="2026-01-20 03:00:00 -0800" endDate="2026-01-20 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="96.23" startDate="2026-01-20 03:00:00 -0800" endDate="2026-01-20 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="9755" startDate="2026-01-20 00:00:00 -0800" endDate="2026-01-20 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="526" startDate="2026-01-20 00:00:00 -0800" endDate="2026-01-20 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="58" startDate="2026-01-20 00:00:00 -0800" endDate="2026-01-20 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="102" startDate="2026-01-20 18:00:00 -0800" endDate="2026-01-20 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="61" startDate="2026-01-21 08:00:00 -0800" endDate="2026-01-21 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="62" startDate="2026-01-21 08:00:00 -0800" endDate="2026-01-21 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="13.81" startDate="2026-01-21 03:00:00 -0800" endDate="2026-01-21 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="98.58" startDate="2026-01-21 03:00:00 -0800" endDate="2026-01-21 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="11307" startDate="2026-01-21 00:00:00 -0800" endDate="2026-01-21 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="545" startDate="2026-01-21 00:00:00 -0800" endDate="2026-01-21 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="44" startDate="2026-01-21 00:00:00 -0800" endDate="2026-01-21 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="90" startDate="2026-01-21 18:00:00 -0800" endDate="2026-01-21 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="60" startDate="2026-01-22 08:00:00 -0800" endDate="2026-01-22 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="58" startDate="2026-01-22 08:00:00 -0800" endDate="2026-01-22 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="12.8" startDate="2026-01-22 03:00:00 -0800" endDate="2026-01-22 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="95.63" startDate="2026-01-22 03:00:00 -0800" endDate="2026-01-22 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="11770" startDate="2026-01-22 00:00:00 -0800" endDate="2026-01-22 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="421" startDate="2026-01-22 00:00:00 -0800" endDate="2026-01-22 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="56" startDate="2026-01-22 00:00:00 -0800" endDate="2026-01-22 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="99" startDate="2026-01-22 18:00:00 -0800" endDate="2026-01-22 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="57" startDate="2026-01-23 08:00:00 -0800" endDate="2026-01-23 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="54" startDate="2026-01-23 08:00:00 -0800" endDate="2026-01-23 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="12.82" startDate="2026-01-23 03:00:00 -0800" endDate="2026-01-23 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="98.4" startDate="2026-01-23 03:00:00 -0800" endDate="2026-01-23 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="11305" startDate="2026-01-23 00:00:00 -0800" endDate="2026-01-23 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="655" startDate="2026-01-23 00:00:00 -0800" endDate="2026-01-23 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="47" startDate="2026-01-23 00:00:00 -0800" endDate="2026-01-23 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="101" startDate="2026-01-23 18:00:00 -0800" endDate="2026-01-23 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="56" startDate="2026-01-24 08:00:00 -0800" endDate="2026-01-24 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="65" startDate="2026-01-24 08:00:00 -0800" endDate="2026-01-24 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="14.39" startDate="2026-01-24 03:00:00 -0800" endDate="2026-01-24 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="95.8" startDate="2026-01-24 03:00:00 -0800" endDate="2026-01-24 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="11072" startDate="2026-01-24 00:00:00 -0800" endDate="2026-01-24 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="519" startDate="2026-01-24 00:00:00 -0800" endDate="2026-01-24 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="53" startDate="2026-01-24 00:00:00 -0800" endDate="2026-01-24 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="99" startDate="2026-01-24 18:00:00 -0800" endDate="2026-01-24 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="55" startDate="2026-01-25 08:00:00 -0800" endDate="2026-01-25 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="62" startDate="2026-01-25 08:00:00 -0800" endDate="2026-01-25 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="13.4" startDate="2026-01-25 03:00:00 -0800" endDate="2026-01-25 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="95.83" startDate="2026-01-25 03:00:00 -0800" endDate="2026-01-25 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="9043" startDate="2026-01-25 00:00:00 -0800" endDate="2026-01-25 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="404" startDate="2026-01-25 00:00:00 -0800" endDate="2026-01-25 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="48" startDate="2026-01-25 00:00:00 -0800" endDate="2026-01-25 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="102" startDate="2026-01-25 18:00:00 -0800" endDate="2026-01-25 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="62" startDate="2026-01-26 08:00:00 -0800" endDate="2026-01-26 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="52" startDate="2026-01-26 08:00:00 -0800" endDate="2026-01-26 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="13.61" startDate="2026-01-26 03:00:00 -0800" endDate="2026-01-26 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="96.42" startDate="2026-01-26 03:00:00 -0800" endDate="2026-01-26 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="8256" startDate="2026-01-26 00:00:00 -0800" endDate="2026-01-26 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="603" startDate="2026-01-26 00:00:00 -0800" endDate="2026-01-26 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="37" startDate="2026-01-26 00:00:00 -0800" endDate="2026-01-26 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="98" startDate="2026-01-26 18:00:00 -0800" endDate="2026-01-26 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="60" startDate="2026-01-27 08:00:00 -0800" endDate="2026-01-27 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="65" startDate="2026-01-27 08:00:00 -0800" endDate="2026-01-27 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="13.52" startDate="2026-01-27 03:00:00 -0800" endDate="2026-01-27 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="95.81" startDate="2026-01-27 03:00:00 -0800" endDate="2026-01-27 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="8871" startDate="2026-01-27 00:00:00 -0800" endDate="2026-01-27 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="447" startDate="2026-01-27 00:00:00 -0800" endDate="2026-01-27 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="36" startDate="2026-01-27 00:00:00 -0800" endDate="2026-01-27 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="95" startDate="2026-01-27 18:00:00 -0800" endDate="2026-01-27 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="59" startDate="2026-01-28 08:00:00 -0800" endDate="2026-01-28 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="61" startDate="2026-01-28 08:00:00 -0800" endDate="2026-01-28 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="13.73" startDate="2026-01-28 03:00:00 -0800" endDate="2026-01-28 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="96.44" startDate="2026-01-28 03:00:00 -0800" endDate="2026-01-28 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="11193" startDate="2026-01-28 00:00:00 -0800" endDate="2026-01-28 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="476" startDate="2026-01-28 00:00:00 -0800" endDate="2026-01-28 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="46" startDate="2026-01-28 00:00:00 -0800" endDate="2026-01-28 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="97" startDate="2026-01-28 18:00:00 -0800" endDate="2026-01-28 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="55" startDate="2026-01-29 08:00:00 -0800" endDate="2026-01-29 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="65" startDate="2026-01-29 08:00:00 -0800" endDate="2026-01-29 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="13.12" startDate="2026-01-29 03:00:00 -0800" endDate="2026-01-29 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="95.42" startDate="2026-01-29 03:00:00 -0800" endDate="2026-01-29 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="10591" startDate="2026-01-29 00:00:00 -0800" endDate="2026-01-29 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="441" startDate="2026-01-29 00:00:00 -0800" endDate="2026-01-29 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="44" startDate="2026-01-29 00:00:00 -0800" endDate="2026-01-29 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="94" startDate="2026-01-29 18:00:00 -0800" endDate="2026-01-29 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="60" startDate="2026-01-30 08:00:00 -0800" endDate="2026-01-30 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="50" startDate="2026-01-30 08:00:00 -0800" endDate="2026-01-30 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="13.03" startDate="2026-01-30 03:00:00 -0800" endDate="2026-01-30 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="97.08" startDate="2026-01-30 03:00:00 -0800" endDate="2026-01-30 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="8084" startDate="2026-01-30 00:00:00 -0800" endDate="2026-01-30 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="417" startDate="2026-01-30 00:00:00 -0800" endDate="2026-01-30 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="33" startDate="2026-01-30 00:00:00 -0800" endDate="2026-01-30 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="96" startDate="2026-01-30 18:00:00 -0800" endDate="2026-01-30 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="62" startDate="2026-01-31 08:00:00 -0800" endDate="2026-01-31 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="56" startDate="2026-01-31 08:00:00 -0800" endDate="2026-01-31 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="12.78" startDate="2026-01-31 03:00:00 -0800" endDate="2026-01-31 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="98.12" startDate="2026-01-31 03:00:00 -0800" endDate="2026-01-31 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="9744" startDate="2026-01-31 00:00:00 -0800" endDate="2026-01-31 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="628" startDate="2026-01-31 00:00:00 -0800" endDate="2026-01-31 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="33" startDate="2026-01-31 00:00:00 -0800" endDate="2026-01-31 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="94" startDate="2026-01-31 18:00:00 -0800" endDate="2026-01-31 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="59" startDate="2026-02-01 08:00:00 -0800" endDate="2026-02-01 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="51" startDate="2026-02-01 08:00:00 -0800" endDate="2026-02-01 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="13.02" startDate="2026-02-01 03:00:00 -0800" endDate="2026-02-01 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="98.98" startDate="2026-02-01 03:00:00 -0800" endDate="2026-02-01 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="9549" startDate="2026-02-01 00:00:00 -0800" endDate="2026-02-01 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="414" startDate="2026-02-01 00:00:00 -0800" endDate="2026-02-01 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="32" startDate="2026-02-01 00:00:00 -0800" endDate="2026-02-01 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="91" startDate="2026-02-01 18:00:00 -0800" endDate="2026-02-01 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="55" startDate="2026-02-02 08:00:00 -0800" endDate="2026-02-02 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="61" startDate="2026-02-02 08:00:00 -0800" endDate="2026-02-02 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="14.61" startDate="2026-02-02 03:00:00 -0800" endDate="2026-02-02 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="96.83" startDate="2026-02-02 03:00:00 -0800" endDate="2026-02-02 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="11879" startDate="2026-02-02 00:00:00 -0800" endDate="2026-02-02 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="432" startDate="2026-02-02 00:00:00 -0800" endDate="2026-02-02 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="57" startDate="2026-02-02 00:00:00 -0800" endDate="2026-02-02 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="102" startDate="2026-02-02 18:00:00 -0800" endDate="2026-02-02 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="56" startDate="2026-02-03 08:00:00 -0800" endDate="2026-02-03 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="52" startDate="2026-02-03 08:00:00 -0800" endDate="2026-02-03 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="12.77" startDate="2026-02-03 03:00:00 -0800" endDate="2026-02-03 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="97.26" startDate="2026-02-03 03:00:00 -0800" endDate="2026-02-03 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="10624" startDate="2026-02-03 00:00:00 -0800" endDate="2026-02-03 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="659" startDate="2026-02-03 00:00:00 -0800" endDate="2026-02-03 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="32" startDate="2026-02-03 00:00:00 -0800" endDate="2026-02-03 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="102" startDate="2026-02-03 18:00:00 -0800" endDate="2026-02-03 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="57" startDate="2026-02-04 08:00:00 -0800" endDate="2026-02-04 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="64" startDate="2026-02-04 08:00:00 -0800" endDate="2026-02-04 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="14.55" startDate="2026-02-04 03:00:00 -0800" endDate="2026-02-04 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="96.48" startDate="2026-02-04 03:00:00 -0800" endDate="2026-02-04 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="8963" startDate="2026-02-04 00:00:00 -0800" endDate="2026-02-04 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="513" startDate="2026-02-04 00:00:00 -0800" endDate="2026-02-04 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="53" startDate="2026-02-04 00:00:00 -0800" endDate="2026-02-04 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="95" startDate="2026-02-04 18:00:00 -0800" endDate="2026-02-04 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="55" startDate="2026-02-05 08:00:00 -0800" endDate="2026-02-05 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="58" startDate="2026-02-05 08:00:00 -0800" endDate="2026-02-05 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="14.82" startDate="2026-02-05 03:00:00 -0800" endDate="2026-02-05 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="95.24" startDate="2026-02-05 03:00:00 -0800" endDate="2026-02-05 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="10264" startDate="2026-02-05 00:00:00 -0800" endDate="2026-02-05 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="414" startDate="2026-02-05 00:00:00 -0800" endDate="2026-02-05 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="58" startDate="2026-02-05 00:00:00 -0800" endDate="2026-02-05 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="91" startDate="2026-02-05 18:00:00 -0800" endDate="2026-02-05 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="59" startDate="2026-02-06 08:00:00 -0800" endDate="2026-02-06 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="65" startDate="2026-02-06 08:00:00 -0800" endDate="2026-02-06 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="12.17" startDate="2026-02-06 03:00:00 -0800" endDate="2026-02-06 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="95.58" startDate="2026-02-06 03:00:00 -0800" endDate="2026-02-06 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="11092" startDate="2026-02-06 00:00:00 -0800" endDate="2026-02-06 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="501" startDate="2026-02-06 00:00:00 -0800" endDate="2026-02-06 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="30" startDate="2026-02-06 00:00:00 -0800" endDate="2026-02-06 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="99" startDate="2026-02-06 18:00:00 -0800" endDate="2026-02-06 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="62" startDate="2026-02-07 08:00:00 -0800" endDate="2026-02-07 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="53" startDate="2026-02-07 08:00:00 -0800" endDate="2026-02-07 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="13.41" startDate="2026-02-07 03:00:00 -0800" endDate="2026-02-07 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="96.49" startDate="2026-02-07 03:00:00 -0800" endDate="2026-02-07 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="9597" startDate="2026-02-07 00:00:00 -0800" endDate="2026-02-07 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="591" startDate="2026-02-07 00:00:00 -0800" endDate="2026-02-07 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="33" startDate="2026-02-07 00:00:00 -0800" endDate="2026-02-07 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="105" startDate="2026-02-07 18:00:00 -0800" endDate="2026-02-07 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="61" startDate="2026-02-08 08:00:00 -0800" endDate="2026-02-08 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="55" startDate="2026-02-08 08:00:00 -0800" endDate="2026-02-08 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="13.32" startDate="2026-02-08 03:00:00 -0800" endDate="2026-02-08 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="98.23" startDate="2026-02-08 03:00:00 -0800" endDate="2026-02-08 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="11744" startDate="2026-02-08 00:00:00 -0800" endDate="2026-02-08 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="406" startDate="2026-02-08 00:00:00 -0800" endDate="2026-02-08 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="51" startDate="2026-02-08 00:00:00 -0800" endDate="2026-02-08 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="104" startDate="2026-02-08 18:00:00 -0800" endDate="2026-02-08 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="58" startDate="2026-02-09 08:00:00 -0800" endDate="2026-02-09 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="51" startDate="2026-02-09 08:00:00 -0800" endDate="2026-02-09 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="12.47" startDate="2026-02-09 03:00:00 -0800" endDate="2026-02-09 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="98.33" startDate="2026-02-09 03:00:00 -0800" endDate="2026-02-09 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="8318" startDate="2026-02-09 00:00:00 -0800" endDate="2026-02-09 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="591" startDate="2026-02-09 00:00:00 -0800" endDate="2026-02-09 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="59" startDate="2026-02-09 00:00:00 -0800" endDate="2026-02-09 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="94" startDate="2026-02-09 18:00:00 -0800" endDate="2026-02-09 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="62" startDate="2026-02-10 08:00:00 -0800" endDate="2026-02-10 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="53" startDate="2026-02-10 08:00:00 -0800" endDate="2026-02-10 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="14.78" startDate="2026-02-10 03:00:00 -0800" endDate="2026-02-10 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="96.54" startDate="2026-02-10 03:00:00 -0800" endDate="2026-02-10 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="8089" startDate="2026-02-10 00:00:00 -0800" endDate="2026-02-10 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="438" startDate="2026-02-10 00:00:00 -0800" endDate="2026-02-10 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="50" startDate="2026-02-10 00:00:00 -0800" endDate="2026-02-10 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="104" startDate="2026-02-10 18:00:00 -0800" endDate="2026-02-10 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="60" startDate="2026-02-11 08:00:00 -0800" endDate="2026-02-11 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="60" startDate="2026-02-11 08:00:00 -0800" endDate="2026-02-11 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="14.47" startDate="2026-02-11 03:00:00 -0800" endDate="2026-02-11 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="96.91" startDate="2026-02-11 03:00:00 -0800" endDate="2026-02-11 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="10573" startDate="2026-02-11 00:00:00 -0800" endDate="2026-02-11 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="473" startDate="2026-02-11 00:00:00 -0800" endDate="2026-02-11 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="41" startDate="2026-02-11 00:00:00 -0800" endDate="2026-02-11 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="100" startDate="2026-02-11 18:00:00 -0800" endDate="2026-02-11 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="58" startDate="2026-02-12 08:00:00 -0800" endDate="2026-02-12 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="51" startDate="2026-02-12 08:00:00 -0800" endDate="2026-02-12 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="12.54" startDate="2026-02-12 03:00:00 -0800" endDate="2026-02-12 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="96.81" startDate="2026-02-12 03:00:00 -0800" endDate="2026-02-12 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="11642" startDate="2026-02-12 00:00:00 -0800" endDate="2026-02-12 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="624" startDate="2026-02-12 00:00:00 -0800" endDate="2026-02-12 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="34" startDate="2026-02-12 00:00:00 -0800" endDate="2026-02-12 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="94" startDate="2026-02-12 18:00:00 -0800" endDate="2026-02-12 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="59" startDate="2026-02-13 08:00:00 -0800" endDate="2026-02-13 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="63" startDate="2026-02-13 08:00:00 -0800" endDate="2026-02-13 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="13.24" startDate="2026-02-13 03:00:00 -0800" endDate="2026-02-13 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="95.62" startDate="2026-02-13 03:00:00 -0800" endDate="2026-02-13 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="9110" startDate="2026-02-13 00:00:00 -0800" endDate="2026-02-13 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="551" startDate="2026-02-13 00:00:00 -0800" endDate="2026-02-13 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="48" startDate="2026-02-13 00:00:00 -0800" endDate="2026-02-13 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="100" startDate="2026-02-13 18:00:00 -0800" endDate="2026-02-13 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="57" startDate="2026-02-14 08:00:00 -0800" endDate="2026-02-14 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="58" startDate="2026-02-14 08:00:00 -0800" endDate="2026-02-14 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="13.47" startDate="2026-02-14 03:00:00 -0800" endDate="2026-02-14 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="96.27" startDate="2026-02-14 03:00:00 -0800" endDate="2026-02-14 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="11699" startDate="2026-02-14 00:00:00 -0800" endDate="2026-02-14 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="458" startDate="2026-02-14 00:00:00 -0800" endDate="2026-02-14 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="45" startDate="2026-02-14 00:00:00 -0800" endDate="2026-02-14 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="94" startDate="2026-02-14 18:00:00 -0800" endDate="2026-02-14 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="55" startDate="2026-02-15 08:00:00 -0800" endDate="2026-02-15 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="56" startDate="2026-02-15 08:00:00 -0800" endDate="2026-02-15 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="13.68" startDate="2026-02-15 03:00:00 -0800" endDate="2026-02-15 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="98.34" startDate="2026-02-15 03:00:00 -0800" endDate="2026-02-15 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="8488" startDate="2026-02-15 00:00:00 -0800" endDate="2026-02-15 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="503" startDate="2026-02-15 00:00:00 -0800" endDate="2026-02-15 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="38" startDate="2026-02-15 00:00:00 -0800" endDate="2026-02-15 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="101" startDate="2026-02-15 18:00:00 -0800" endDate="2026-02-15 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="61" startDate="2026-02-16 08:00:00 -0800" endDate="2026-02-16 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="58" startDate="2026-02-16 08:00:00 -0800" endDate="2026-02-16 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="14.99" startDate="2026-02-16 03:00:00 -0800" endDate="2026-02-16 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="98.7" startDate="2026-02-16 03:00:00 -0800" endDate="2026-02-16 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="8399" startDate="2026-02-16 00:00:00 -0800" endDate="2026-02-16 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="548" startDate="2026-02-16 00:00:00 -0800" endDate="2026-02-16 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="42" startDate="2026-02-16 00:00:00 -0800" endDate="2026-02-16 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="103" startDate="2026-02-16 18:00:00 -0800" endDate="2026-02-16 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="57" startDate="2026-02-17 08:00:00 -0800" endDate="2026-02-17 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="51" startDate="2026-02-17 08:00:00 -0800" endDate="2026-02-17 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="14.5" startDate="2026-02-17 03:00:00 -0800" endDate="2026-02-17 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="98.91" startDate="2026-02-17 03:00:00 -0800" endDate="2026-02-17 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="8591" startDate="2026-02-17 00:00:00 -0800" endDate="2026-02-17 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="408" startDate="2026-02-17 00:00:00 -0800" endDate="2026-02-17 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="50" startDate="2026-02-17 00:00:00 -0800" endDate="2026-02-17 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="104" startDate="2026-02-17 18:00:00 -0800" endDate="2026-02-17 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="60" startDate="2026-02-18 08:00:00 -0800" endDate="2026-02-18 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="54" startDate="2026-02-18 08:00:00 -0800" endDate="2026-02-18 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="13.33" startDate="2026-02-18 03:00:00 -0800" endDate="2026-02-18 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="98.16" startDate="2026-02-18 03:00:00 -0800" endDate="2026-02-18 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="11865" startDate="2026-02-18 00:00:00 -0800" endDate="2026-02-18 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="546" startDate="2026-02-18 00:00:00 -0800" endDate="2026-02-18 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="46" startDate="2026-02-18 00:00:00 -0800" endDate="2026-02-18 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="95" startDate="2026-02-18 18:00:00 -0800" endDate="2026-02-18 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="60" startDate="2026-02-19 08:00:00 -0800" endDate="2026-02-19 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="63" startDate="2026-02-19 08:00:00 -0800" endDate="2026-02-19 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="12.12" startDate="2026-02-19 03:00:00 -0800" endDate="2026-02-19 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="96.64" startDate="2026-02-19 03:00:00 -0800" endDate="2026-02-19 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="9133" startDate="2026-02-19 00:00:00 -0800" endDate="2026-02-19 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="492" startDate="2026-02-19 00:00:00 -0800" endDate="2026-02-19 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="48" startDate="2026-02-19 00:00:00 -0800" endDate="2026-02-19 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="94" startDate="2026-02-19 18:00:00 -0800" endDate="2026-02-19 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="57" startDate="2026-02-20 08:00:00 -0800" endDate="2026-02-20 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="57" startDate="2026-02-20 08:00:00 -0800" endDate="2026-02-20 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="14.13" startDate="2026-02-20 03:00:00 -0800" endDate="2026-02-20 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="95.79" startDate="2026-02-20 03:00:00 -0800" endDate="2026-02-20 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="8324" startDate="2026-02-20 00:00:00 -0800" endDate="2026-02-20 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="444" startDate="2026-02-20 00:00:00 -0800" endDate="2026-02-20 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="56" startDate="2026-02-20 00:00:00 -0800" endDate="2026-02-20 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="105" startDate="2026-02-20 18:00:00 -0800" endDate="2026-02-20 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="59" startDate="2026-02-21 08:00:00 -0800" endDate="2026-02-21 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="55" startDate="2026-02-21 08:00:00 -0800" endDate="2026-02-21 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="12.62" startDate="2026-02-21 03:00:00 -0800" endDate="2026-02-21 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="97.45" startDate="2026-02-21 03:00:00 -0800" endDate="2026-02-21 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="10898" startDate="2026-02-21 00:00:00 -0800" endDate="2026-02-21 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="498" startDate="2026-02-21 00:00:00 -0800" endDate="2026-02-21 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="50" startDate="2026-02-21 00:00:00 -0800" endDate="2026-02-21 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="99" startDate="2026-02-21 18:00:00 -0800" endDate="2026-02-21 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="58" startDate="2026-02-22 08:00:00 -0800" endDate="2026-02-22 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="50" startDate="2026-02-22 08:00:00 -0800" endDate="2026-02-22 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="12.2" startDate="2026-02-22 03:00:00 -0800" endDate="2026-02-22 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="97.93" startDate="2026-02-22 03:00:00 -0800" endDate="2026-02-22 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="9671" startDate="2026-02-22 00:00:00 -0800" endDate="2026-02-22 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="428" startDate="2026-02-22 00:00:00 -0800" endDate="2026-02-22 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="56" startDate="2026-02-22 00:00:00 -0800" endDate="2026-02-22 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="101" startDate="2026-02-22 18:00:00 -0800" endDate="2026-02-22 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="60" startDate="2026-02-23 08:00:00 -0800" endDate="2026-02-23 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="59" startDate="2026-02-23 08:00:00 -0800" endDate="2026-02-23 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="14.53" startDate="2026-02-23 03:00:00 -0800" endDate="2026-02-23 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="98.46" startDate="2026-02-23 03:00:00 -0800" endDate="2026-02-23 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="10019" startDate="2026-02-23 00:00:00 -0800" endDate="2026-02-23 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="407" startDate="2026-02-23 00:00:00 -0800" endDate="2026-02-23 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="32" startDate="2026-02-23 00:00:00 -0800" endDate="2026-02-23 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="103" startDate="2026-02-23 18:00:00 -0800" endDate="2026-02-23 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="62" startDate="2026-02-24 08:00:00 -0800" endDate="2026-02-24 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="54" startDate="2026-02-24 08:00:00 -0800" endDate="2026-02-24 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="14.62" startDate="2026-02-24 03:00:00 -0800" endDate="2026-02-24 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="96.07" startDate="2026-02-24 03:00:00 -0800" endDate="2026-02-24 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="8762" startDate="2026-02-24 00:00:00 -0800" endDate="2026-02-24 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="587" startDate="2026-02-24 00:00:00 -0800" endDate="2026-02-24 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="48" startDate="2026-02-24 00:00:00 -0800" endDate="2026-02-24 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="91" startDate="2026-02-24 18:00:00 -0800" endDate="2026-02-24 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="57" startDate="2026-02-25 08:00:00 -0800" endDate="2026-02-25 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="61" startDate="2026-02-25 08:00:00 -0800" endDate="2026-02-25 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="13.72" startDate="2026-02-25 03:00:00 -0800" endDate="2026-02-25 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="98.43" startDate="2026-02-25 03:00:00 -0800" endDate="2026-02-25 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="9458" startDate="2026-02-25 00:00:00 -0800" endDate="2026-02-25 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="628" startDate="2026-02-25 00:00:00 -0800" endDate="2026-02-25 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="46" startDate="2026-02-25 00:00:00 -0800" endDate="2026-02-25 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="92" startDate="2026-02-25 18:00:00 -0800" endDate="2026-02-25 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="56" startDate="2026-02-26 08:00:00 -0800" endDate="2026-02-26 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="61" startDate="2026-02-26 08:00:00 -0800" endDate="2026-02-26 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="14.14" startDate="2026-02-26 03:00:00 -0800" endDate="2026-02-26 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="98.27" startDate="2026-02-26 03:00:00 -0800" endDate="2026-02-26 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="11544" startDate="2026-02-26 00:00:00 -0800" endDate="2026-02-26 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="564" startDate="2026-02-26 00:00:00 -0800" endDate="2026-02-26 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="59" startDate="2026-02-26 00:00:00 -0800" endDate="2026-02-26 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="102" startDate="2026-02-26 18:00:00 -0800" endDate="2026-02-26 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="55" startDate="2026-02-27 08:00:00 -0800" endDate="2026-02-27 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="59" startDate="2026-02-27 08:00:00 -0800" endDate="2026-02-27 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="14.62" startDate="2026-02-27 03:00:00 -0800" endDate="2026-02-27 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="98.82" startDate="2026-02-27 03:00:00 -0800" endDate="2026-02-27 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="10026" startDate="2026-02-27 00:00:00 -0800" endDate="2026-02-27 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="662" startDate="2026-02-27 00:00:00 -0800" endDate="2026-02-27 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="44" startDate="2026-02-27 00:00:00 -0800" endDate="2026-02-27 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="90" startDate="2026-02-27 18:00:00 -0800" endDate="2026-02-27 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="57" startDate="2026-02-28 08:00:00 -0800" endDate="2026-02-28 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="50" startDate="2026-02-28 08:00:00 -0800" endDate="2026-02-28 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="12.73" startDate="2026-02-28 03:00:00 -0800" endDate="2026-02-28 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="95.35" startDate="2026-02-28 03:00:00 -0800" endDate="2026-02-28 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="10535" startDate="2026-02-28 00:00:00 -0800" endDate="2026-02-28 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="485" startDate="2026-02-28 00:00:00 -0800" endDate="2026-02-28 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="35" startDate="2026-02-28 00:00:00 -0800" endDate="2026-02-28 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="93" startDate="2026-02-28 18:00:00 -0800" endDate="2026-02-28 18:30:00 -0800"/>
+
+<Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Apple Watch" unit="count/min" value="59" startDate="2026-03-01 08:00:00 -0800" endDate="2026-03-01 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Apple Watch" unit="ms" value="58" startDate="2026-03-01 08:00:00 -0800" endDate="2026-03-01 08:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierRespiratoryRate" sourceName="Apple Watch" unit="count/min" value="13.67" startDate="2026-03-01 03:00:00 -0800" endDate="2026-03-01 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Apple Watch" unit="%" value="98.82" startDate="2026-03-01 03:00:00 -0800" endDate="2026-03-01 03:05:00 -0800"/>
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" value="8079" startDate="2026-03-01 00:00:00 -0800" endDate="2026-03-01 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Apple Watch" unit="kcal" value="499" startDate="2026-03-01 00:00:00 -0800" endDate="2026-03-01 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierAppleExerciseTime" sourceName="Apple Watch" unit="min" value="33" startDate="2026-03-01 00:00:00 -0800" endDate="2026-03-01 23:59:59 -0800"/>
+<Record type="HKQuantityTypeIdentifierWalkingHeartRateAverage" sourceName="Apple Watch" unit="count/min" value="98" startDate="2026-03-01 18:00:00 -0800" endDate="2026-03-01 18:30:00 -0800"/>
+
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-01-01 23:00:00 -0800" startDate="2026-01-01 00:00:00 -0800" endDate="2026-01-01 23:59:59 -0800" value="225.4"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-01 07:00:00 -0800" startDate="2026-01-01 07:00:00 -0800" endDate="2026-01-01 07:00:00 -0800" value="104.8"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-01 13:00:00 -0800" startDate="2026-01-01 13:00:00 -0800" endDate="2026-01-01 13:00:00 -0800" value="141.4"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-01 19:00:00 -0800" startDate="2026-01-01 19:00:00 -0800" endDate="2026-01-01 19:00:00 -0800" value="138.3"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-01-02 23:00:00 -0800" startDate="2026-01-02 00:00:00 -0800" endDate="2026-01-02 23:59:59 -0800" value="190.7"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-02 07:00:00 -0800" startDate="2026-01-02 07:00:00 -0800" endDate="2026-01-02 07:00:00 -0800" value="91.0"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-02 13:00:00 -0800" startDate="2026-01-02 13:00:00 -0800" endDate="2026-01-02 13:00:00 -0800" value="108.2"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-02 19:00:00 -0800" startDate="2026-01-02 19:00:00 -0800" endDate="2026-01-02 19:00:00 -0800" value="135.9"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-01-03 23:00:00 -0800" startDate="2026-01-03 00:00:00 -0800" endDate="2026-01-03 23:59:59 -0800" value="234.7"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-03 07:00:00 -0800" startDate="2026-01-03 07:00:00 -0800" endDate="2026-01-03 07:00:00 -0800" value="89.3"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-03 13:00:00 -0800" startDate="2026-01-03 13:00:00 -0800" endDate="2026-01-03 13:00:00 -0800" value="129.6"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-03 19:00:00 -0800" startDate="2026-01-03 19:00:00 -0800" endDate="2026-01-03 19:00:00 -0800" value="135.8"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-01-04 23:00:00 -0800" startDate="2026-01-04 00:00:00 -0800" endDate="2026-01-04 23:59:59 -0800" value="255.0"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-04 07:00:00 -0800" startDate="2026-01-04 07:00:00 -0800" endDate="2026-01-04 07:00:00 -0800" value="92.8"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-04 13:00:00 -0800" startDate="2026-01-04 13:00:00 -0800" endDate="2026-01-04 13:00:00 -0800" value="123.9"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-04 19:00:00 -0800" startDate="2026-01-04 19:00:00 -0800" endDate="2026-01-04 19:00:00 -0800" value="102.5"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-01-05 23:00:00 -0800" startDate="2026-01-05 00:00:00 -0800" endDate="2026-01-05 23:59:59 -0800" value="278.6"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-05 07:00:00 -0800" startDate="2026-01-05 07:00:00 -0800" endDate="2026-01-05 07:00:00 -0800" value="82.7"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-05 13:00:00 -0800" startDate="2026-01-05 13:00:00 -0800" endDate="2026-01-05 13:00:00 -0800" value="135.0"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-05 19:00:00 -0800" startDate="2026-01-05 19:00:00 -0800" endDate="2026-01-05 19:00:00 -0800" value="127.6"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-01-06 23:00:00 -0800" startDate="2026-01-06 00:00:00 -0800" endDate="2026-01-06 23:59:59 -0800" value="157.8"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-06 07:00:00 -0800" startDate="2026-01-06 07:00:00 -0800" endDate="2026-01-06 07:00:00 -0800" value="82.8"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-06 13:00:00 -0800" startDate="2026-01-06 13:00:00 -0800" endDate="2026-01-06 13:00:00 -0800" value="117.3"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-06 19:00:00 -0800" startDate="2026-01-06 19:00:00 -0800" endDate="2026-01-06 19:00:00 -0800" value="128.5"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-01-07 23:00:00 -0800" startDate="2026-01-07 00:00:00 -0800" endDate="2026-01-07 23:59:59 -0800" value="266.7"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-07 07:00:00 -0800" startDate="2026-01-07 07:00:00 -0800" endDate="2026-01-07 07:00:00 -0800" value="86.0"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-07 13:00:00 -0800" startDate="2026-01-07 13:00:00 -0800" endDate="2026-01-07 13:00:00 -0800" value="104.7"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-07 19:00:00 -0800" startDate="2026-01-07 19:00:00 -0800" endDate="2026-01-07 19:00:00 -0800" value="109.2"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-01-08 23:00:00 -0800" startDate="2026-01-08 00:00:00 -0800" endDate="2026-01-08 23:59:59 -0800" value="166.2"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-08 07:00:00 -0800" startDate="2026-01-08 07:00:00 -0800" endDate="2026-01-08 07:00:00 -0800" value="81.9"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-08 13:00:00 -0800" startDate="2026-01-08 13:00:00 -0800" endDate="2026-01-08 13:00:00 -0800" value="130.7"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-08 19:00:00 -0800" startDate="2026-01-08 19:00:00 -0800" endDate="2026-01-08 19:00:00 -0800" value="120.5"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-01-09 23:00:00 -0800" startDate="2026-01-09 00:00:00 -0800" endDate="2026-01-09 23:59:59 -0800" value="220.4"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-09 07:00:00 -0800" startDate="2026-01-09 07:00:00 -0800" endDate="2026-01-09 07:00:00 -0800" value="101.6"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-09 13:00:00 -0800" startDate="2026-01-09 13:00:00 -0800" endDate="2026-01-09 13:00:00 -0800" value="112.7"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-09 19:00:00 -0800" startDate="2026-01-09 19:00:00 -0800" endDate="2026-01-09 19:00:00 -0800" value="109.9"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-01-10 23:00:00 -0800" startDate="2026-01-10 00:00:00 -0800" endDate="2026-01-10 23:59:59 -0800" value="255.4"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-10 07:00:00 -0800" startDate="2026-01-10 07:00:00 -0800" endDate="2026-01-10 07:00:00 -0800" value="79.5"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-10 13:00:00 -0800" startDate="2026-01-10 13:00:00 -0800" endDate="2026-01-10 13:00:00 -0800" value="124.4"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-10 19:00:00 -0800" startDate="2026-01-10 19:00:00 -0800" endDate="2026-01-10 19:00:00 -0800" value="130.9"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-01-11 23:00:00 -0800" startDate="2026-01-11 00:00:00 -0800" endDate="2026-01-11 23:59:59 -0800" value="237.4"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-11 07:00:00 -0800" startDate="2026-01-11 07:00:00 -0800" endDate="2026-01-11 07:00:00 -0800" value="88.9"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-11 13:00:00 -0800" startDate="2026-01-11 13:00:00 -0800" endDate="2026-01-11 13:00:00 -0800" value="110.6"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-11 19:00:00 -0800" startDate="2026-01-11 19:00:00 -0800" endDate="2026-01-11 19:00:00 -0800" value="140.4"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-01-12 23:00:00 -0800" startDate="2026-01-12 00:00:00 -0800" endDate="2026-01-12 23:59:59 -0800" value="167.3"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-12 07:00:00 -0800" startDate="2026-01-12 07:00:00 -0800" endDate="2026-01-12 07:00:00 -0800" value="89.9"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-12 13:00:00 -0800" startDate="2026-01-12 13:00:00 -0800" endDate="2026-01-12 13:00:00 -0800" value="115.7"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-12 19:00:00 -0800" startDate="2026-01-12 19:00:00 -0800" endDate="2026-01-12 19:00:00 -0800" value="126.5"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-01-13 23:00:00 -0800" startDate="2026-01-13 00:00:00 -0800" endDate="2026-01-13 23:59:59 -0800" value="232.7"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-13 07:00:00 -0800" startDate="2026-01-13 07:00:00 -0800" endDate="2026-01-13 07:00:00 -0800" value="94.7"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-13 13:00:00 -0800" startDate="2026-01-13 13:00:00 -0800" endDate="2026-01-13 13:00:00 -0800" value="121.0"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-13 19:00:00 -0800" startDate="2026-01-13 19:00:00 -0800" endDate="2026-01-13 19:00:00 -0800" value="109.6"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-01-14 23:00:00 -0800" startDate="2026-01-14 00:00:00 -0800" endDate="2026-01-14 23:59:59 -0800" value="266.8"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-14 07:00:00 -0800" startDate="2026-01-14 07:00:00 -0800" endDate="2026-01-14 07:00:00 -0800" value="101.5"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-14 13:00:00 -0800" startDate="2026-01-14 13:00:00 -0800" endDate="2026-01-14 13:00:00 -0800" value="116.3"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-14 19:00:00 -0800" startDate="2026-01-14 19:00:00 -0800" endDate="2026-01-14 19:00:00 -0800" value="123.1"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-01-15 23:00:00 -0800" startDate="2026-01-15 00:00:00 -0800" endDate="2026-01-15 23:59:59 -0800" value="265.7"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-15 07:00:00 -0800" startDate="2026-01-15 07:00:00 -0800" endDate="2026-01-15 07:00:00 -0800" value="102.8"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-15 13:00:00 -0800" startDate="2026-01-15 13:00:00 -0800" endDate="2026-01-15 13:00:00 -0800" value="137.5"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-15 19:00:00 -0800" startDate="2026-01-15 19:00:00 -0800" endDate="2026-01-15 19:00:00 -0800" value="109.7"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-01-16 23:00:00 -0800" startDate="2026-01-16 00:00:00 -0800" endDate="2026-01-16 23:59:59 -0800" value="219.1"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-16 07:00:00 -0800" startDate="2026-01-16 07:00:00 -0800" endDate="2026-01-16 07:00:00 -0800" value="101.4"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-16 13:00:00 -0800" startDate="2026-01-16 13:00:00 -0800" endDate="2026-01-16 13:00:00 -0800" value="120.9"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-16 19:00:00 -0800" startDate="2026-01-16 19:00:00 -0800" endDate="2026-01-16 19:00:00 -0800" value="107.0"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-01-17 23:00:00 -0800" startDate="2026-01-17 00:00:00 -0800" endDate="2026-01-17 23:59:59 -0800" value="151.6"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-17 07:00:00 -0800" startDate="2026-01-17 07:00:00 -0800" endDate="2026-01-17 07:00:00 -0800" value="89.2"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-17 13:00:00 -0800" startDate="2026-01-17 13:00:00 -0800" endDate="2026-01-17 13:00:00 -0800" value="104.5"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-17 19:00:00 -0800" startDate="2026-01-17 19:00:00 -0800" endDate="2026-01-17 19:00:00 -0800" value="135.7"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-01-18 23:00:00 -0800" startDate="2026-01-18 00:00:00 -0800" endDate="2026-01-18 23:59:59 -0800" value="244.4"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-18 07:00:00 -0800" startDate="2026-01-18 07:00:00 -0800" endDate="2026-01-18 07:00:00 -0800" value="82.9"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-18 13:00:00 -0800" startDate="2026-01-18 13:00:00 -0800" endDate="2026-01-18 13:00:00 -0800" value="124.1"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-18 19:00:00 -0800" startDate="2026-01-18 19:00:00 -0800" endDate="2026-01-18 19:00:00 -0800" value="134.8"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-01-19 23:00:00 -0800" startDate="2026-01-19 00:00:00 -0800" endDate="2026-01-19 23:59:59 -0800" value="202.3"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-19 07:00:00 -0800" startDate="2026-01-19 07:00:00 -0800" endDate="2026-01-19 07:00:00 -0800" value="80.6"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-19 13:00:00 -0800" startDate="2026-01-19 13:00:00 -0800" endDate="2026-01-19 13:00:00 -0800" value="132.0"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-19 19:00:00 -0800" startDate="2026-01-19 19:00:00 -0800" endDate="2026-01-19 19:00:00 -0800" value="126.9"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-01-20 23:00:00 -0800" startDate="2026-01-20 00:00:00 -0800" endDate="2026-01-20 23:59:59 -0800" value="156.3"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-20 07:00:00 -0800" startDate="2026-01-20 07:00:00 -0800" endDate="2026-01-20 07:00:00 -0800" value="82.6"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-20 13:00:00 -0800" startDate="2026-01-20 13:00:00 -0800" endDate="2026-01-20 13:00:00 -0800" value="114.7"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-20 19:00:00 -0800" startDate="2026-01-20 19:00:00 -0800" endDate="2026-01-20 19:00:00 -0800" value="142.2"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-01-21 23:00:00 -0800" startDate="2026-01-21 00:00:00 -0800" endDate="2026-01-21 23:59:59 -0800" value="158.0"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-21 07:00:00 -0800" startDate="2026-01-21 07:00:00 -0800" endDate="2026-01-21 07:00:00 -0800" value="102.2"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-21 13:00:00 -0800" startDate="2026-01-21 13:00:00 -0800" endDate="2026-01-21 13:00:00 -0800" value="114.0"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-21 19:00:00 -0800" startDate="2026-01-21 19:00:00 -0800" endDate="2026-01-21 19:00:00 -0800" value="118.4"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-01-22 23:00:00 -0800" startDate="2026-01-22 00:00:00 -0800" endDate="2026-01-22 23:59:59 -0800" value="261.3"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-22 07:00:00 -0800" startDate="2026-01-22 07:00:00 -0800" endDate="2026-01-22 07:00:00 -0800" value="89.4"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-22 13:00:00 -0800" startDate="2026-01-22 13:00:00 -0800" endDate="2026-01-22 13:00:00 -0800" value="128.0"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-22 19:00:00 -0800" startDate="2026-01-22 19:00:00 -0800" endDate="2026-01-22 19:00:00 -0800" value="106.4"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-01-23 23:00:00 -0800" startDate="2026-01-23 00:00:00 -0800" endDate="2026-01-23 23:59:59 -0800" value="237.1"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-23 07:00:00 -0800" startDate="2026-01-23 07:00:00 -0800" endDate="2026-01-23 07:00:00 -0800" value="102.1"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-23 13:00:00 -0800" startDate="2026-01-23 13:00:00 -0800" endDate="2026-01-23 13:00:00 -0800" value="142.3"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-23 19:00:00 -0800" startDate="2026-01-23 19:00:00 -0800" endDate="2026-01-23 19:00:00 -0800" value="127.1"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-01-24 23:00:00 -0800" startDate="2026-01-24 00:00:00 -0800" endDate="2026-01-24 23:59:59 -0800" value="211.0"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-24 07:00:00 -0800" startDate="2026-01-24 07:00:00 -0800" endDate="2026-01-24 07:00:00 -0800" value="83.7"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-24 13:00:00 -0800" startDate="2026-01-24 13:00:00 -0800" endDate="2026-01-24 13:00:00 -0800" value="108.0"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-24 19:00:00 -0800" startDate="2026-01-24 19:00:00 -0800" endDate="2026-01-24 19:00:00 -0800" value="112.7"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-01-25 23:00:00 -0800" startDate="2026-01-25 00:00:00 -0800" endDate="2026-01-25 23:59:59 -0800" value="274.7"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-25 07:00:00 -0800" startDate="2026-01-25 07:00:00 -0800" endDate="2026-01-25 07:00:00 -0800" value="92.8"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-25 13:00:00 -0800" startDate="2026-01-25 13:00:00 -0800" endDate="2026-01-25 13:00:00 -0800" value="123.6"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-25 19:00:00 -0800" startDate="2026-01-25 19:00:00 -0800" endDate="2026-01-25 19:00:00 -0800" value="118.9"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-01-26 23:00:00 -0800" startDate="2026-01-26 00:00:00 -0800" endDate="2026-01-26 23:59:59 -0800" value="233.3"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-26 07:00:00 -0800" startDate="2026-01-26 07:00:00 -0800" endDate="2026-01-26 07:00:00 -0800" value="89.7"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-26 13:00:00 -0800" startDate="2026-01-26 13:00:00 -0800" endDate="2026-01-26 13:00:00 -0800" value="119.6"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-26 19:00:00 -0800" startDate="2026-01-26 19:00:00 -0800" endDate="2026-01-26 19:00:00 -0800" value="141.9"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-01-27 23:00:00 -0800" startDate="2026-01-27 00:00:00 -0800" endDate="2026-01-27 23:59:59 -0800" value="221.3"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-27 07:00:00 -0800" startDate="2026-01-27 07:00:00 -0800" endDate="2026-01-27 07:00:00 -0800" value="92.0"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-27 13:00:00 -0800" startDate="2026-01-27 13:00:00 -0800" endDate="2026-01-27 13:00:00 -0800" value="132.0"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-27 19:00:00 -0800" startDate="2026-01-27 19:00:00 -0800" endDate="2026-01-27 19:00:00 -0800" value="113.1"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-01-28 23:00:00 -0800" startDate="2026-01-28 00:00:00 -0800" endDate="2026-01-28 23:59:59 -0800" value="263.7"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-28 07:00:00 -0800" startDate="2026-01-28 07:00:00 -0800" endDate="2026-01-28 07:00:00 -0800" value="97.7"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-28 13:00:00 -0800" startDate="2026-01-28 13:00:00 -0800" endDate="2026-01-28 13:00:00 -0800" value="105.5"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-28 19:00:00 -0800" startDate="2026-01-28 19:00:00 -0800" endDate="2026-01-28 19:00:00 -0800" value="110.6"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-01-29 23:00:00 -0800" startDate="2026-01-29 00:00:00 -0800" endDate="2026-01-29 23:59:59 -0800" value="230.2"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-29 07:00:00 -0800" startDate="2026-01-29 07:00:00 -0800" endDate="2026-01-29 07:00:00 -0800" value="83.1"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-29 13:00:00 -0800" startDate="2026-01-29 13:00:00 -0800" endDate="2026-01-29 13:00:00 -0800" value="101.8"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-29 19:00:00 -0800" startDate="2026-01-29 19:00:00 -0800" endDate="2026-01-29 19:00:00 -0800" value="105.2"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-01-30 23:00:00 -0800" startDate="2026-01-30 00:00:00 -0800" endDate="2026-01-30 23:59:59 -0800" value="267.6"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-30 07:00:00 -0800" startDate="2026-01-30 07:00:00 -0800" endDate="2026-01-30 07:00:00 -0800" value="84.9"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-30 13:00:00 -0800" startDate="2026-01-30 13:00:00 -0800" endDate="2026-01-30 13:00:00 -0800" value="107.4"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-30 19:00:00 -0800" startDate="2026-01-30 19:00:00 -0800" endDate="2026-01-30 19:00:00 -0800" value="131.3"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-01-31 23:00:00 -0800" startDate="2026-01-31 00:00:00 -0800" endDate="2026-01-31 23:59:59 -0800" value="266.2"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-31 07:00:00 -0800" startDate="2026-01-31 07:00:00 -0800" endDate="2026-01-31 07:00:00 -0800" value="97.5"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-31 13:00:00 -0800" startDate="2026-01-31 13:00:00 -0800" endDate="2026-01-31 13:00:00 -0800" value="130.9"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-01-31 19:00:00 -0800" startDate="2026-01-31 19:00:00 -0800" endDate="2026-01-31 19:00:00 -0800" value="117.5"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-02-01 23:00:00 -0800" startDate="2026-02-01 00:00:00 -0800" endDate="2026-02-01 23:59:59 -0800" value="183.6"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-01 07:00:00 -0800" startDate="2026-02-01 07:00:00 -0800" endDate="2026-02-01 07:00:00 -0800" value="84.1"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-01 13:00:00 -0800" startDate="2026-02-01 13:00:00 -0800" endDate="2026-02-01 13:00:00 -0800" value="117.3"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-01 19:00:00 -0800" startDate="2026-02-01 19:00:00 -0800" endDate="2026-02-01 19:00:00 -0800" value="110.3"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-02-02 23:00:00 -0800" startDate="2026-02-02 00:00:00 -0800" endDate="2026-02-02 23:59:59 -0800" value="221.2"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-02 07:00:00 -0800" startDate="2026-02-02 07:00:00 -0800" endDate="2026-02-02 07:00:00 -0800" value="86.2"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-02 13:00:00 -0800" startDate="2026-02-02 13:00:00 -0800" endDate="2026-02-02 13:00:00 -0800" value="121.5"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-02 19:00:00 -0800" startDate="2026-02-02 19:00:00 -0800" endDate="2026-02-02 19:00:00 -0800" value="120.0"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-02-03 23:00:00 -0800" startDate="2026-02-03 00:00:00 -0800" endDate="2026-02-03 23:59:59 -0800" value="274.9"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-03 07:00:00 -0800" startDate="2026-02-03 07:00:00 -0800" endDate="2026-02-03 07:00:00 -0800" value="94.2"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-03 13:00:00 -0800" startDate="2026-02-03 13:00:00 -0800" endDate="2026-02-03 13:00:00 -0800" value="137.5"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-03 19:00:00 -0800" startDate="2026-02-03 19:00:00 -0800" endDate="2026-02-03 19:00:00 -0800" value="139.0"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-02-04 23:00:00 -0800" startDate="2026-02-04 00:00:00 -0800" endDate="2026-02-04 23:59:59 -0800" value="252.8"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-04 07:00:00 -0800" startDate="2026-02-04 07:00:00 -0800" endDate="2026-02-04 07:00:00 -0800" value="99.5"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-04 13:00:00 -0800" startDate="2026-02-04 13:00:00 -0800" endDate="2026-02-04 13:00:00 -0800" value="112.8"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-04 19:00:00 -0800" startDate="2026-02-04 19:00:00 -0800" endDate="2026-02-04 19:00:00 -0800" value="103.5"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-02-05 23:00:00 -0800" startDate="2026-02-05 00:00:00 -0800" endDate="2026-02-05 23:59:59 -0800" value="254.2"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-05 07:00:00 -0800" startDate="2026-02-05 07:00:00 -0800" endDate="2026-02-05 07:00:00 -0800" value="91.7"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-05 13:00:00 -0800" startDate="2026-02-05 13:00:00 -0800" endDate="2026-02-05 13:00:00 -0800" value="120.9"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-05 19:00:00 -0800" startDate="2026-02-05 19:00:00 -0800" endDate="2026-02-05 19:00:00 -0800" value="130.2"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-02-06 23:00:00 -0800" startDate="2026-02-06 00:00:00 -0800" endDate="2026-02-06 23:59:59 -0800" value="240.1"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-06 07:00:00 -0800" startDate="2026-02-06 07:00:00 -0800" endDate="2026-02-06 07:00:00 -0800" value="96.6"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-06 13:00:00 -0800" startDate="2026-02-06 13:00:00 -0800" endDate="2026-02-06 13:00:00 -0800" value="136.9"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-06 19:00:00 -0800" startDate="2026-02-06 19:00:00 -0800" endDate="2026-02-06 19:00:00 -0800" value="124.2"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-02-07 23:00:00 -0800" startDate="2026-02-07 00:00:00 -0800" endDate="2026-02-07 23:59:59 -0800" value="203.6"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-07 07:00:00 -0800" startDate="2026-02-07 07:00:00 -0800" endDate="2026-02-07 07:00:00 -0800" value="93.1"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-07 13:00:00 -0800" startDate="2026-02-07 13:00:00 -0800" endDate="2026-02-07 13:00:00 -0800" value="108.6"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-07 19:00:00 -0800" startDate="2026-02-07 19:00:00 -0800" endDate="2026-02-07 19:00:00 -0800" value="111.5"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-02-08 23:00:00 -0800" startDate="2026-02-08 00:00:00 -0800" endDate="2026-02-08 23:59:59 -0800" value="167.6"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-08 07:00:00 -0800" startDate="2026-02-08 07:00:00 -0800" endDate="2026-02-08 07:00:00 -0800" value="100.5"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-08 13:00:00 -0800" startDate="2026-02-08 13:00:00 -0800" endDate="2026-02-08 13:00:00 -0800" value="132.6"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-08 19:00:00 -0800" startDate="2026-02-08 19:00:00 -0800" endDate="2026-02-08 19:00:00 -0800" value="106.3"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-02-09 23:00:00 -0800" startDate="2026-02-09 00:00:00 -0800" endDate="2026-02-09 23:59:59 -0800" value="158.1"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-09 07:00:00 -0800" startDate="2026-02-09 07:00:00 -0800" endDate="2026-02-09 07:00:00 -0800" value="89.7"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-09 13:00:00 -0800" startDate="2026-02-09 13:00:00 -0800" endDate="2026-02-09 13:00:00 -0800" value="132.7"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-09 19:00:00 -0800" startDate="2026-02-09 19:00:00 -0800" endDate="2026-02-09 19:00:00 -0800" value="102.2"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-02-10 23:00:00 -0800" startDate="2026-02-10 00:00:00 -0800" endDate="2026-02-10 23:59:59 -0800" value="178.8"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-10 07:00:00 -0800" startDate="2026-02-10 07:00:00 -0800" endDate="2026-02-10 07:00:00 -0800" value="83.4"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-10 13:00:00 -0800" startDate="2026-02-10 13:00:00 -0800" endDate="2026-02-10 13:00:00 -0800" value="134.6"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-10 19:00:00 -0800" startDate="2026-02-10 19:00:00 -0800" endDate="2026-02-10 19:00:00 -0800" value="132.4"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-02-11 23:00:00 -0800" startDate="2026-02-11 00:00:00 -0800" endDate="2026-02-11 23:59:59 -0800" value="220.9"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-11 07:00:00 -0800" startDate="2026-02-11 07:00:00 -0800" endDate="2026-02-11 07:00:00 -0800" value="82.5"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-11 13:00:00 -0800" startDate="2026-02-11 13:00:00 -0800" endDate="2026-02-11 13:00:00 -0800" value="127.7"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-11 19:00:00 -0800" startDate="2026-02-11 19:00:00 -0800" endDate="2026-02-11 19:00:00 -0800" value="121.8"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-02-12 23:00:00 -0800" startDate="2026-02-12 00:00:00 -0800" endDate="2026-02-12 23:59:59 -0800" value="222.5"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-12 07:00:00 -0800" startDate="2026-02-12 07:00:00 -0800" endDate="2026-02-12 07:00:00 -0800" value="97.6"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-12 13:00:00 -0800" startDate="2026-02-12 13:00:00 -0800" endDate="2026-02-12 13:00:00 -0800" value="111.7"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-12 19:00:00 -0800" startDate="2026-02-12 19:00:00 -0800" endDate="2026-02-12 19:00:00 -0800" value="120.6"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-02-13 23:00:00 -0800" startDate="2026-02-13 00:00:00 -0800" endDate="2026-02-13 23:59:59 -0800" value="238.3"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-13 07:00:00 -0800" startDate="2026-02-13 07:00:00 -0800" endDate="2026-02-13 07:00:00 -0800" value="92.4"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-13 13:00:00 -0800" startDate="2026-02-13 13:00:00 -0800" endDate="2026-02-13 13:00:00 -0800" value="135.3"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-13 19:00:00 -0800" startDate="2026-02-13 19:00:00 -0800" endDate="2026-02-13 19:00:00 -0800" value="125.0"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-02-14 23:00:00 -0800" startDate="2026-02-14 00:00:00 -0800" endDate="2026-02-14 23:59:59 -0800" value="260.8"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-14 07:00:00 -0800" startDate="2026-02-14 07:00:00 -0800" endDate="2026-02-14 07:00:00 -0800" value="92.9"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-14 13:00:00 -0800" startDate="2026-02-14 13:00:00 -0800" endDate="2026-02-14 13:00:00 -0800" value="122.8"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-14 19:00:00 -0800" startDate="2026-02-14 19:00:00 -0800" endDate="2026-02-14 19:00:00 -0800" value="128.1"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-02-15 23:00:00 -0800" startDate="2026-02-15 00:00:00 -0800" endDate="2026-02-15 23:59:59 -0800" value="235.7"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-15 07:00:00 -0800" startDate="2026-02-15 07:00:00 -0800" endDate="2026-02-15 07:00:00 -0800" value="97.2"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-15 13:00:00 -0800" startDate="2026-02-15 13:00:00 -0800" endDate="2026-02-15 13:00:00 -0800" value="140.9"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-15 19:00:00 -0800" startDate="2026-02-15 19:00:00 -0800" endDate="2026-02-15 19:00:00 -0800" value="123.4"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-02-16 23:00:00 -0800" startDate="2026-02-16 00:00:00 -0800" endDate="2026-02-16 23:59:59 -0800" value="223.4"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-16 07:00:00 -0800" startDate="2026-02-16 07:00:00 -0800" endDate="2026-02-16 07:00:00 -0800" value="90.3"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-16 13:00:00 -0800" startDate="2026-02-16 13:00:00 -0800" endDate="2026-02-16 13:00:00 -0800" value="142.7"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-16 19:00:00 -0800" startDate="2026-02-16 19:00:00 -0800" endDate="2026-02-16 19:00:00 -0800" value="134.8"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-02-17 23:00:00 -0800" startDate="2026-02-17 00:00:00 -0800" endDate="2026-02-17 23:59:59 -0800" value="203.5"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-17 07:00:00 -0800" startDate="2026-02-17 07:00:00 -0800" endDate="2026-02-17 07:00:00 -0800" value="83.1"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-17 13:00:00 -0800" startDate="2026-02-17 13:00:00 -0800" endDate="2026-02-17 13:00:00 -0800" value="118.0"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-17 19:00:00 -0800" startDate="2026-02-17 19:00:00 -0800" endDate="2026-02-17 19:00:00 -0800" value="102.0"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-02-18 23:00:00 -0800" startDate="2026-02-18 00:00:00 -0800" endDate="2026-02-18 23:59:59 -0800" value="165.4"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-18 07:00:00 -0800" startDate="2026-02-18 07:00:00 -0800" endDate="2026-02-18 07:00:00 -0800" value="92.6"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-18 13:00:00 -0800" startDate="2026-02-18 13:00:00 -0800" endDate="2026-02-18 13:00:00 -0800" value="134.8"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-18 19:00:00 -0800" startDate="2026-02-18 19:00:00 -0800" endDate="2026-02-18 19:00:00 -0800" value="112.4"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-02-19 23:00:00 -0800" startDate="2026-02-19 00:00:00 -0800" endDate="2026-02-19 23:59:59 -0800" value="175.0"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-19 07:00:00 -0800" startDate="2026-02-19 07:00:00 -0800" endDate="2026-02-19 07:00:00 -0800" value="79.7"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-19 13:00:00 -0800" startDate="2026-02-19 13:00:00 -0800" endDate="2026-02-19 13:00:00 -0800" value="141.7"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-19 19:00:00 -0800" startDate="2026-02-19 19:00:00 -0800" endDate="2026-02-19 19:00:00 -0800" value="134.5"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-02-20 23:00:00 -0800" startDate="2026-02-20 00:00:00 -0800" endDate="2026-02-20 23:59:59 -0800" value="239.6"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-20 07:00:00 -0800" startDate="2026-02-20 07:00:00 -0800" endDate="2026-02-20 07:00:00 -0800" value="97.5"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-20 13:00:00 -0800" startDate="2026-02-20 13:00:00 -0800" endDate="2026-02-20 13:00:00 -0800" value="137.1"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-20 19:00:00 -0800" startDate="2026-02-20 19:00:00 -0800" endDate="2026-02-20 19:00:00 -0800" value="109.5"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-02-21 23:00:00 -0800" startDate="2026-02-21 00:00:00 -0800" endDate="2026-02-21 23:59:59 -0800" value="180.2"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-21 07:00:00 -0800" startDate="2026-02-21 07:00:00 -0800" endDate="2026-02-21 07:00:00 -0800" value="102.5"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-21 13:00:00 -0800" startDate="2026-02-21 13:00:00 -0800" endDate="2026-02-21 13:00:00 -0800" value="113.5"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-21 19:00:00 -0800" startDate="2026-02-21 19:00:00 -0800" endDate="2026-02-21 19:00:00 -0800" value="101.6"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-02-22 23:00:00 -0800" startDate="2026-02-22 00:00:00 -0800" endDate="2026-02-22 23:59:59 -0800" value="228.7"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-22 07:00:00 -0800" startDate="2026-02-22 07:00:00 -0800" endDate="2026-02-22 07:00:00 -0800" value="103.5"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-22 13:00:00 -0800" startDate="2026-02-22 13:00:00 -0800" endDate="2026-02-22 13:00:00 -0800" value="108.5"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-22 19:00:00 -0800" startDate="2026-02-22 19:00:00 -0800" endDate="2026-02-22 19:00:00 -0800" value="107.6"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-02-23 23:00:00 -0800" startDate="2026-02-23 00:00:00 -0800" endDate="2026-02-23 23:59:59 -0800" value="269.1"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-23 07:00:00 -0800" startDate="2026-02-23 07:00:00 -0800" endDate="2026-02-23 07:00:00 -0800" value="98.4"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-23 13:00:00 -0800" startDate="2026-02-23 13:00:00 -0800" endDate="2026-02-23 13:00:00 -0800" value="101.5"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-23 19:00:00 -0800" startDate="2026-02-23 19:00:00 -0800" endDate="2026-02-23 19:00:00 -0800" value="123.5"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-02-24 23:00:00 -0800" startDate="2026-02-24 00:00:00 -0800" endDate="2026-02-24 23:59:59 -0800" value="265.8"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-24 07:00:00 -0800" startDate="2026-02-24 07:00:00 -0800" endDate="2026-02-24 07:00:00 -0800" value="89.7"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-24 13:00:00 -0800" startDate="2026-02-24 13:00:00 -0800" endDate="2026-02-24 13:00:00 -0800" value="141.5"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-24 19:00:00 -0800" startDate="2026-02-24 19:00:00 -0800" endDate="2026-02-24 19:00:00 -0800" value="118.0"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-02-25 23:00:00 -0800" startDate="2026-02-25 00:00:00 -0800" endDate="2026-02-25 23:59:59 -0800" value="247.9"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-25 07:00:00 -0800" startDate="2026-02-25 07:00:00 -0800" endDate="2026-02-25 07:00:00 -0800" value="91.3"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-25 13:00:00 -0800" startDate="2026-02-25 13:00:00 -0800" endDate="2026-02-25 13:00:00 -0800" value="141.3"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-25 19:00:00 -0800" startDate="2026-02-25 19:00:00 -0800" endDate="2026-02-25 19:00:00 -0800" value="103.1"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-02-26 23:00:00 -0800" startDate="2026-02-26 00:00:00 -0800" endDate="2026-02-26 23:59:59 -0800" value="170.0"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-26 07:00:00 -0800" startDate="2026-02-26 07:00:00 -0800" endDate="2026-02-26 07:00:00 -0800" value="101.8"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-26 13:00:00 -0800" startDate="2026-02-26 13:00:00 -0800" endDate="2026-02-26 13:00:00 -0800" value="140.4"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-26 19:00:00 -0800" startDate="2026-02-26 19:00:00 -0800" endDate="2026-02-26 19:00:00 -0800" value="129.2"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-02-27 23:00:00 -0800" startDate="2026-02-27 00:00:00 -0800" endDate="2026-02-27 23:59:59 -0800" value="171.8"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-27 07:00:00 -0800" startDate="2026-02-27 07:00:00 -0800" endDate="2026-02-27 07:00:00 -0800" value="79.9"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-27 13:00:00 -0800" startDate="2026-02-27 13:00:00 -0800" endDate="2026-02-27 13:00:00 -0800" value="114.9"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-27 19:00:00 -0800" startDate="2026-02-27 19:00:00 -0800" endDate="2026-02-27 19:00:00 -0800" value="120.1"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-02-28 23:00:00 -0800" startDate="2026-02-28 00:00:00 -0800" endDate="2026-02-28 23:59:59 -0800" value="274.5"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-28 07:00:00 -0800" startDate="2026-02-28 07:00:00 -0800" endDate="2026-02-28 07:00:00 -0800" value="87.6"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-28 13:00:00 -0800" startDate="2026-02-28 13:00:00 -0800" endDate="2026-02-28 13:00:00 -0800" value="141.1"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-02-28 19:00:00 -0800" startDate="2026-02-28 19:00:00 -0800" endDate="2026-02-28 19:00:00 -0800" value="132.7"/>
+  <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="MyFitnessPal" unit="g" creationDate="2026-03-01 23:00:00 -0800" startDate="2026-03-01 00:00:00 -0800" endDate="2026-03-01 23:59:59 -0800" value="278.4"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-03-01 07:00:00 -0800" startDate="2026-03-01 07:00:00 -0800" endDate="2026-03-01 07:00:00 -0800" value="79.6"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-03-01 13:00:00 -0800" startDate="2026-03-01 13:00:00 -0800" endDate="2026-03-01 13:00:00 -0800" value="115.7"/>
+  <Record type="HKQuantityTypeIdentifierBloodGlucose" sourceName="HealthKit" unit="mg/dL" creationDate="2026-03-01 19:00:00 -0800" startDate="2026-03-01 19:00:00 -0800" endDate="2026-03-01 19:00:00 -0800" value="113.3"/>
+</HealthData>

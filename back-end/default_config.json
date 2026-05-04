@@ -1,0 +1,9 @@
+{
+    "LLMProviderType": "local",
+    "ModelName": "mistral:7b",
+    "LocalHealthKitDataPath": "../synthetic-apple-health-data",
+    "FHIRBaseURL": "https://r4.smarthealthit.org",
+    "NTFYBaseURL": "https://ntfy.sh",
+    "AggregationWindowDays": 7,
+    "GeminiAPIKey": ""
+}
