@@ -248,5 +248,4 @@ npm run dev
 **Backend:** FastAPI, Uvicorn, Motor (async MongoDB), Ollama, Google Generative AI
 
 **Infrastructure:** MongoDB, HAPI FHIR (Docker), ntfy (Docker), Ollama
-#   F H I R - B a s e d - H e a l t h - T r e n d s - D a s h b o a r d  
  
